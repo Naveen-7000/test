@@ -1,2 +1,3 @@
 java topics 
 1.variable,literal(Constant e.g.= char='A',int=2.float=1.3)
+2.operator and other stuff.
